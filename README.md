@@ -16,7 +16,7 @@ Feito com javascript  apresentando funções de um CRUD
  - Banco de dados utilizado -> MONGODB.
  
  
- - Helmet,Csurf e .Env  como medidas de segurança.
+ - Helmet,Csurf,bcryptjs e .Env  como medidas de segurança.
 
 
 
